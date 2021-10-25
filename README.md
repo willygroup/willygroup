@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willygroup
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Rust and WebAssembly
+- 🌱 I’m currently developing in Rust
 
 <!---
 willygroup/willygroup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
