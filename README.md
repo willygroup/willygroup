@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willygroup
 - 👀 I’m interested in Everything
-- 🌱 I’m currently developing in Rust
+- 🌱 I’m currently developing blokchain and smart contract in Rust
 
 <!---
 willygroup/willygroup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
